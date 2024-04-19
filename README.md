@@ -1,4 +1,4 @@
-# Proyecto de una tienda online de libros utilizando el paradigma de la orientación a objetos
+# Proyecto de una tienda online de libros utilizando la orientación a objetos
 Este proyecto tiene como objetivo desarrollar una plataforma en línea para la venta de libros, donde los usuarios podrán buscar, comprar y gestionar sus compras. 
 
 01. Gestión de libros: 
