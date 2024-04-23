@@ -12,7 +12,6 @@ Este proyecto tiene como objetivo desarrollar una plataforma en línea para la v
   
 03. Gestión de clientes:
 - Los usuarios podrán registrarse como clientes de la tienda, proporcionando información personal como nombre, dirección, correo electrónico, etc
-- Los clientes podrán iniciar sesión en sus cuentas para acceder a funciones personalizadas, como la gestión de pedidos y la visualización del historial de compras
   
 04. Procesamiento de pedidos:
 - Los clientes podrán realizar pedidos de libros desde su carrito de compra, proporcionando información de envío y método de pago
