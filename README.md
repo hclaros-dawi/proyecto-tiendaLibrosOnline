@@ -14,6 +14,5 @@ Este proyecto tiene como objetivo desarrollar una plataforma en línea para la v
 - Los usuarios podrán registrarse como clientes de la tienda, proporcionando información personal como nombre, dirección, correo electrónico, etc
 - Se tendrán en cuenta dos tipos de cliente, el normal o estándar y el premium
   
-04. Procesamiento de pedidos:
+04. Gestión de pedidos:
 - Los clientes podrán realizar pedidos de libros desde su carrito de compra, proporcionando información de envío y método de pago
-- El sistema procesará los pagos de manera segura y generar confirmaciones de pedidos para los clientes
